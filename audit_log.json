@@ -1,0 +1,3 @@
+{"timestamp": "2026-09-21T16:45:01.102831+00:00", "run_id": "run_a4f19b2c", "region": "Guntur", "decision": "approve", "reviewer_note": "Numbers verified against SQLite engine. Recommendation sound."}
+{"timestamp": "2026-09-21T16:45:01.104918+00:00", "run_id": "run_9c8b72e1", "region": "Visakhapatnam", "decision": "edit", "reviewer_note": "Requesting breakdown of distributor vs retail order drops."}
+{"timestamp": "2026-09-21T16:45:01.106540+00:00", "run_id": "run_3e5d01aa", "region": "Bengaluru", "decision": "reject", "reviewer_note": "Unverified assumption on rider strike. Re-draft with fulfillment logs."}
